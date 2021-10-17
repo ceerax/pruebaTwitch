@@ -1,0 +1,33 @@
+
+.inter{
+    border: solid 1px white;
+    border-radius: 22px;
+    padding: 4rem;
+    background: black;
+}
+
+.form-group>input{
+    border: solid 3px  !important;
+    border-radius: 14px !important;
+}
+
+.form-group > h2 {
+    color: rgb(213, 213, 5);
+}
+
+.form-group > label {
+    color: white;
+}
+
+.link{
+    color: white;
+}
+
+.link:hover{
+    color: grey;
+}
+
+.btn{
+    width: 14rem !important;
+    border-radius: 21px !important;
+}
