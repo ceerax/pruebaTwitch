@@ -39,7 +39,7 @@ function Buscador() {
                 <h2>GAMERS</h2>
             </h1>
 
-            <a href="./login.js">ir al login </a>
+            
 
             <div class="ui grid">
                 <div class="four column row">
